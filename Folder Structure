@@ -1,0 +1,10 @@
+salesforce-dashboard/
+├── app/
+│   ├── app.py
+│   ├── salesforce_api.py
+│   └── routes.py
+├── templates/
+│   └── dashboard.html
+├── static/
+│   └── styles.css
+├── README.md
